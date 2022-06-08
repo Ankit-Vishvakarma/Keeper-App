@@ -1,3 +1,12 @@
+# Keeper App
+- Keeper App is used to save your notes for future reference. Notes can be created and
+deleted. Developed using React Frontend Interference.
+
+# Screenshots
+![img1](https://user-images.githubusercontent.com/91247823/172686798-d62dbd5b-98b8-4cff-8a71-f3be76363158.png)
+![img2](https://user-images.githubusercontent.com/91247823/172686830-94fb904f-7b9f-44f8-9b49-1fede3c2b959.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
